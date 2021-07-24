@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+}
+.foco{
+    width: 100%;
+}
+.foco img{
+    display: block;
+    margin: auto;
+}
+.switch{
+    display: block;
+    background-color: transparent;
+    margin:auto;
+}
+.switch img{
+    height: 40px;
+    cursor: pointer;
+}
